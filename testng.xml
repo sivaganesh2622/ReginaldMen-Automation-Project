@@ -1,0 +1,101 @@
+<suite name="ReginaldMen Suite">
+    <test name="Homepage Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_001"/>
+        </classes>
+    </test>
+    <test name="Menu Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_002"/>
+        </classes>
+    </test>
+    <test name="Footer Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_003"/>
+        </classes>
+    </test>
+    <test name="Shop Page Validations">
+    <classes>
+        <class name="org.ReginaldMen.TS_004"/>
+    </classes>
+</test>
+ <test name="Product Details Page Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_005"/>
+        </classes>
+    </test>
+    
+    <test name="Checkout Process Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_006"/>
+        </classes>
+    </test>
+    <test name="Search Functionality Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_007"/>
+        </classes>
+    </test>
+    
+    <test name="User Authentication Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_008"/>
+        </classes>
+    </test>
+     <test name="Add to Cart Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_009"/>
+        </classes>
+    </test>
+     <test name="Cart Page Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_010"/>
+        </classes>
+    </test>
+    <test name="Checkout Page Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_011"/>
+        </classes>
+    </test>
+    
+     <test name="Order Confirmation and  My Account Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_012"/>
+        </classes>
+    </test>
+    <test name="Search Functionality Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_013"/>
+        </classes>
+    </test>
+     <test name="User Registration and Login Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_014"/>
+        </classes>
+    </test>
+     <test name="Payment Gateway and Order Checkout Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_015"/>
+        </classes>
+    </test>
+     <test name="Product Reviews and Ratings Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_016"/>
+        </classes>
+    </test>
+    
+    <test name="User Profile and Account Settings Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_017"/>
+        </classes>
+    </test>
+    <test name="Order History and Tracking Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_018"/>
+        </classes>
+    </test>
+ <test name="Newsletter Subscription and Email Validations">
+        <classes>
+            <class name="org.ReginaldMen.TS_019"/>
+        </classes>
+    </test>
+</suite>

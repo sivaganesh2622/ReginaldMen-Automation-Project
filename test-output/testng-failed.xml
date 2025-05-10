@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.ReginaldMen.TS_001">
+        <methods>
+          <include name="tc003_verifyLogoPresence"/>
+          <include name="beforeMethod"/>
+          <include name="tc005_verifyCartIcon"/>
+          <include name="tc002_verifyTitle"/>
+          <include name="tc004_verifySearchIcon"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- org.ReginaldMen.TS_001 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
