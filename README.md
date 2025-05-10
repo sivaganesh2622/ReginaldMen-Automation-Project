@@ -18,6 +18,9 @@ Easily configurable for different environments
 🛠️ Tech Stack
 
 Java
+
 Selenium WebDriver
+
 TestNG
+
 Maven
