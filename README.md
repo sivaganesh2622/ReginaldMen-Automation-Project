@@ -1,4 +1,5 @@
-🤖 Reginald Men Automation
+🤖 Reginald Men Automation Sofware Testing Project 
+
 Reginald Men Automation is a robust test automation framework built using Selenium WebDriver and TestNG. This project is designed to automate core workflows and repetitive tasks for the Reginald Men platform, ensuring reliability, efficiency, and faster feedback during development and QA cycles.
 
 🚀 Features
